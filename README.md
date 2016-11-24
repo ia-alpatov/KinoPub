@@ -1,2 +1,2 @@
 # KinoPub
-Клиент для kino.pub под Android.
+Клиент для kino.pub под Android. 
